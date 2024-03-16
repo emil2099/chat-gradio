@@ -1,5 +1,5 @@
 
-# Project Title
+# Gradio chat
 
 A Gradio based chat interface with ability to connect to alternative LLM providers like Openrouter and Mistral.
 
