@@ -1,0 +1,4 @@
+openai
+gradio
+tiktoken
+python-dotenv
