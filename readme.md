@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 To copy the repository, run the following command in your terminal:
 
 ```bash
-git clone https://yourrepositorylink.git
+git clone https://github.com/emil2099/chat-gradio
 ```
 
 #### Setting Up the Python Virtual Environment
@@ -80,3 +80,7 @@ With all configurations done, run the script with the following command:
 ```bash
 python chat.py
 ```
+
+### Accessing and using the chat
+
+Access the chat on local URL: http://0.0.0.0:7860
